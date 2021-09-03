@@ -1,0 +1,2 @@
+In this site you can create new pages with a title and description.
+Lets go to create our first page.
